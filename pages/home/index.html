@@ -5,10 +5,78 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
+    <!-- header -->
+    <header>
+        <img src="../../assets/logo-dark.svg" alt="Imagem">
+        <nav>
+            <ul>
+                <li><a href="../home/index.html" class="header__link">Home</a></li>
+                <li><a href="../portfolio/index.html">Portfolio</a></li>
+                <li><a href="../contato/index.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
 
+    <!-- main -->
+    <main class="main">
+        <div class="hero__section">
+            <div class="hero__container">
+                <h1 class="hero__sobre">Olá, me chamo Alex Spencer e eu amo construir websites lindos</h1>
+                <a class="hero__botao" href="#sobre-mim">SOBRE MIM</a>
+            </div>
+        </div>
+        <!-- sobre -->
+        <div class="sobre__mim">
+            <section class="perfil">
+                <img class="perfil_img" src="../../assets/home/image-homepage-profile.jpg" alt="">
+            </section>
+            <section class="sobre__texto">
+                <hr class="texto__sobre">
+                <h2 class="texto__titulo">Sobre mim</h2>
+                <p class="texto__paragrafo">Sou um desenvolvedor front-end júnior procurando por uma oportunidade. Eu
+                    foco em escrever HTML acessível, usando práticas modernas de CSS e escrevendo um JavaScript limpo.
+                    Quando estou escrevendo código JavaScript, na maioria das vezes estou usando React, mas posso me
+                    adaptar para qualquer ferramenta se necessário. Moro em Londres, UK, mas também seria feliz
+                    trabalhando remotamente e tenho experiência em times remotos. Quando não estou codando, poderá me
+                    achar fora de casa. Eu adoro estar próximo a natureza seja para uma caminhada, corrida ou ciclismo.
+                    Eu amaria se você desse uma olhada no meu trabalho.</p>
+                <a href="../portfolio/index.html" class="texto__link">Ir para PORTFOLIO</a>
+                <hr class="texto__sobre">
+            </section>
+            <!-- contato -->
+
+            <section class="contato">
+                <h2>Interessado em fazer projetos comigo?</h2>
+                <a href="../contato/index" class="contato__link">Contato</a>
+            </section>
+        </div>
+    </main>
+
+    <!-- footer -->
+    <footer class="footer">
+        <img src="../../assets/logo-light.svg" alt="">
+
+        <ul>
+            <li><a href="../home/index.html" class="header__link--home">Home</a></li>
+            <li><a href="../portfolio/index.html">Portfolio</a></li>
+            <li><a href="../contato/index.html">Contato</a></li>
+        </ul>
+
+        <div class="footer__social">
+            <a href="#"><img src="../../assets/icons/github-light.svg" alt="Github" class="social__icon"></a>
+            <a href="#"><img src="../../assets/icons/twitter-light.svg" alt="Twitter" class="social__icon"></a>
+            <a href="#"><img src="../../assets/icons/linkedin-light.svg" alt="Linkedin" class="social__icon"></a>
+        </div>
+    </footer>
 </body>
 
 </html>
