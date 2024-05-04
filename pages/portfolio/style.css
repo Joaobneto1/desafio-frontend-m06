@@ -1,0 +1,203 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+header {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 64px 164px 9px 165px;
+}
+
+
+header ul {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+header ul li {
+    font-size: 15px;
+    font-weight: 380;
+    font-family: "Public Sans", sans-serif;
+    text-transform: uppercase;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #33323D;
+}
+
+.header__link {
+    color: #5FB4A2;
+}
+
+.contato {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 165px 0px 164px;
+    justify-items: center;
+    align-items: center;
+}
+
+.contato h2 {
+    color: #33323D;
+    font-family: "Ibarra Real Nova", sans-serif;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 1px;
+    width: 300px;
+}
+
+.contato__link {
+    width: 168px;
+    height: 48px;
+    flex-shrink: 0;
+    text-transform: uppercase;
+    border: 1px solid #33323D;
+    color: #33323D;
+    font-family: "Public Sans", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contato__link:hover {
+    background-color: #33323D;
+    color: #ffff;
+}
+
+.footer {
+    margin-top: 100px;
+    height: 100px;
+    background-color: #33323D;
+    display: flex;
+    padding: 0px 165px 0px 164px;
+    align-items: center;
+}
+
+.footer img {
+    width: 60px;
+    height: 40px;
+}
+
+.footer ul {
+    display: flex;
+    align-items: center;
+}
+
+.footer li a {
+    color: #ffff;
+    font-family: "Public Sans", sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+.footer__social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: auto;
+}
+
+.footer__social img {
+    width: 30px;
+    height: 30px;
+    margin-left: 15px;
+}
+
+.main__projeto {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px 150px 0px 160px;
+}
+
+.fylo__contato {
+    padding-bottom: 100px;
+}
+
+.main__imagem img {
+    width: 100%;
+    height: auto;
+}
+
+.main__texto {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.main__titulo,
+.main__desccricao {
+    width: auto;
+    margin: 0;
+}
+
+.main__titulo {
+    color: #33323D;
+    font-family: "Ibarra Real Nova", sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 1px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    padding: 0px 150px;
+}
+
+.main__desccricao {
+    color: #33323D;
+    font-family: "Public Sans", sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    padding: 0px 150px;
+}
+
+.portfolio__botao {
+    width: 200px;
+    height: 45px;
+    border: 2px solid #33323D;
+    color: #33323D;
+    font-family: "Public Sans", sans-serif;
+    font-size: 14px;
+    align-self: center;
+    margin-top: 20px;
+    margin-bottom: 45px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linha__horizontal {
+    width: 100%;
+    height: 1px;
+    background-color: #33323D;
+    opacity: 0.25;
+    margin-top: 0;
+}
