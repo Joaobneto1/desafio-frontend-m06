@@ -121,3 +121,95 @@ header ul li a {
     height: 30px;
     margin-left: 15px;
 }
+
+.main__contato {
+    width: 100%;
+    margin-top: 50px auto;
+    display: flex;
+    padding: 50px 0px;
+    gap: 110px;
+    border: 1px solid #D7D7D7;
+}
+
+.main__titulo {
+    font-size: 40px;
+    font-family: "Ibarra Real Nova", sans-serif;
+    width: 800px;
+}
+
+.main__paragrafo {
+    width: 100%;
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+}
+
+.main__paragrafo__texto {
+    font-size: 18px;
+    font-family: "Public Sans", sans-serif;
+}
+
+.icons__imagem {
+    padding-right: 20px;
+}
+
+.contato__main {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    gap: 110px;
+}
+
+.contato__titulo {
+    font-size: 40px;
+    font-family: "Ibarra Real Nova", sans-serif;
+    width: 800px;
+}
+
+.contato__form {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form__label {
+    font-size: 15px;
+    font-weight: 600;
+    font-family: "Public Sans", sans-serif;
+    line-height: 3;
+}
+
+.form__input {
+    width: auto;
+    height: 40px;
+    font-size: 22px;
+    background-color: #D7D7D7;
+    border: none;
+}
+
+.form__textarea {
+    width: auto;
+    height: 100px;
+    text-decoration: none;
+    background-color: #D7D7D7;
+    border: none;
+    margin-bottom: 30px;
+}
+
+.form__button {
+    width: 230px;
+    height: 50px;
+    font-size: 15px;
+    font-family: "Public Sans", sans-serif;
+    color: #FFFF;
+    background: #203A4C;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: none;
+    cursor: pointer;
+}
+
+.form__button:hover {
+    background: #5FB4A2;
+}

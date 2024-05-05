@@ -121,3 +121,123 @@ header ul li a {
     height: 30px;
     margin-left: 15px;
 }
+
+.manage__hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.manage__hero img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    margin-right: 165px;
+    margin-bottom: 0px;
+    margin-left: 160px;
+    overflow: hidden;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}
+
+.main__projeto {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0px;
+    padding-right: 165px;
+    padding-bottom: 0px;
+    padding-left: 160px;
+}
+
+.main__esquerda {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-self: flex-start;
+    padding-top: 0px;
+    padding-right: 120px;
+    padding-left: 0px;
+}
+
+.main__titulo {
+    font-size: 50px;
+    font-weight: 800;
+    font-family: "Ibarra Real Nova", sans-serif;
+    line-height: 50px;
+    letter-spacing: 1px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    color: #33323D;
+}
+
+.main__descricao {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Public Sans", sans-serif;
+    line-height: 40px;
+    opacity: 1;
+    color: #33323D;
+}
+
+.main__subtitulo__verde {
+    color: #5FB4A2;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Public Sans", sans-serif;
+    line-height: 30px;
+}
+
+.manage__button {
+    width: 200px;
+    height: 45px;
+    border: 2px solid #33323D;
+    color: #33323D;
+    font-family: "Public Sans", sans-serif;
+    font-size: 14px;
+    align-self: center;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main__subtitulo {
+    font-size: 35px;
+    font-weight: 600;
+    font-family: "Ibarra Real Nova", sans-serif;
+    line-height: 50px;
+    letter-spacing: 1px;
+    color: #33323D;
+}
+
+.preview__imagem {
+    width: 100%;
+    height: auto;
+}
+
+.links__section {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-right: 160px;
+    padding-left: 30px;
+    padding-bottom: 160px;
+}
+
+.links__div {
+    display: flex;
+    column-gap: 40px;
+}
+
+.link__texto {
+    display: flex;
+    flex-direction: column;
+}
