@@ -1,143 +1,151 @@
-![](https://i.imgur.com/xG74tOh.png)
+# 🎨 Desafio Frontend – Módulo 06 | Cubos Academy
 
-# Desafio | Front-end
+> Projeto individual proposto como desafio final do Módulo 06 da formação front-end da [Cubos Academy](https://cubos.academy/).  
+> O objetivo foi **replicar fielmente um layout profissional no Figma**, usando HTML e CSS puros.
 
-O objetivo deste exercício é replicar o website encontrado no figma [``Desafio front academy 1.fig``](https://www.figma.com/file/smlcPHa2T5pXsJVgDr7ct3/Desafio-front-academy-1?type=design&node-id=0%3A1&mode=design&t=YJeSRXOLmH6ARU0y-1).
+🔗 **Figma original:** [Desafio Front Academy 1](https://www.figma.com/file/smlcPHa2T5pXsJVgDr7ct3/Desafio-front-academy-1?type=design&node-id=0%3A1&mode=design)
 
+---
 
-- [Home](#Home)
-- [Portfolio](#Portfolio)
-- [Portfolio - 01 - Manage](#Portfolio---01---Manage)
-- [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
-- [Portfolio - 03 - Insure](#Portfolio---03---Insure)
-- [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
-- [Contato](#Contato)
+## 🚀 Tecnologias Utilizadas
 
-### Home
+- HTML5
+- CSS3 (Flexbox e Grid)
+- Mobile-First
+---
 
-Seções
+## 📁 Estrutura de Páginas
 
-- Header ![](https://i.imgur.com/Vwj9U0y.png)
+- [Home](#home)
+- [Portfolio](#portfolio)
+- [Portfolio 01 – Manage](#portfolio-01-manage)
+- [Portfolio 02 – Bookmark](#portfolio-02-bookmark)
+- [Portfolio 03 – Insure](#portfolio-03-insure)
+- [Portfolio 04 – Fylo](#portfolio-04-fylo)
+- [Contato](#contato)
 
-- Hero Section ![](https://i.imgur.com/tjYO6R6.png)
+---
 
-- Sobre Section ![](https://i.imgur.com/KHPaEWW.png)
+## 🏠 Home
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+- Header  
+  ![](https://i.imgur.com/Vwj9U0y.png)
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+- Hero  
+  ![](https://i.imgur.com/tjYO6R6.png)
 
-### Portfolio
+- Sobre  
+  ![](https://i.imgur.com/KHPaEWW.png)
 
-Seções
+- Contato  
+  ![](https://i.imgur.com/e88URFi.png)
 
-- Header ![](https://i.imgur.com/1pDIzMz.png)
+- Footer  
+  ![](https://i.imgur.com/P06m37L.png)
 
-- Manage Section ![](https://i.imgur.com/jHweGIb.png)
+---
 
-- Bookmark Section ![](https://i.imgur.com/uTpctrq.png)
+## 🎨 Portfolio
 
-- Insure Section ![](https://i.imgur.com/BsAWB7m.png)
+- Header  
+  ![](https://i.imgur.com/1pDIzMz.png)
 
-- Fylo Section ![](https://i.imgur.com/W9s2afk.png)
+- Manage  
+  ![](https://i.imgur.com/jHweGIb.png)
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+- Bookmark  
+  ![](https://i.imgur.com/uTpctrq.png)
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+- Insure  
+  ![](https://i.imgur.com/BsAWB7m.png)
 
-### Portfolio - 01 - Manage
+- Fylo  
+  ![](https://i.imgur.com/W9s2afk.png)
 
-Seções
+- Contato + Footer  
+  ![](https://i.imgur.com/e88URFi.png)  
+  ![](https://i.imgur.com/P06m37L.png)
 
-- Header ![](https://i.imgur.com/1pDIzMz.png)
+---
 
-- Hero Section ![](https://i.imgur.com/JYY2lNG.png)
+## 📄 Portfolio 01 – Manage
 
-- Descrição Projeto Aside ![](https://i.imgur.com/uEgRim6.png)
+- Hero  
+  ![](https://i.imgur.com/JYY2lNG.png)
 
-- Main Section
+- Descrição  
+  ![](https://i.imgur.com/uEgRim6.png)
+
+- Main  
   ![](https://i.imgur.com/O1JyZtK.png)
 
-- Links Section ![](https://i.imgur.com/zGJMDOE.png)
+- Links  
+  ![](https://i.imgur.com/zGJMDOE.png)
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+---
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+## 📄 Portfolio 02 – Bookmark
 
-### Portfolio - 02 - Bookmark
+- Hero  
+  ![](https://i.imgur.com/ag3Madi.png)
 
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/ag3Madi.png)
-
-- Descrição Projeto Aside
+- Descrição  
   ![](https://i.imgur.com/JDvgptu.png)
 
-- Main Section
+- Main  
   ![](https://i.imgur.com/T41K6z3.png)
 
-- Links Section ![](https://i.imgur.com/UpCLzFL.png)
+- Links  
+  ![](https://i.imgur.com/UpCLzFL.png)
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+---
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+## 📄 Portfolio 03 – Insure
 
-### Portfolio - 03 - Insure
+- Hero  
+  ![](https://i.imgur.com/yJMQ0iJ.png)
 
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/yJMQ0iJ.png)
-
-- Descrição Projeto Aside
+- Descrição  
   ![](https://i.imgur.com/zofNYva.png)
 
-- Main Section
+- Main  
   ![](https://i.imgur.com/BMMJXlz.png)
 
-- Links Section ![](https://i.imgur.com/9fYN4lI.png)
+- Links  
+  ![](https://i.imgur.com/9fYN4lI.png)
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+---
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+## 📄 Portfolio 04 – Fylo
 
-### Portfolio - 04 - Fylo
+- Hero  
+  ![](https://i.imgur.com/7IcYjiF.png)
 
-Seções
-
-- Header ![](https://i.imgur.com/1pDIzMz.png)
-
-- Hero Section ![](https://i.imgur.com/7IcYjiF.png)
-
-- Descrição Projeto Aside
+- Descrição  
   ![](https://i.imgur.com/fKuRKYX.png)
 
-- Main Section
+- Main  
   ![](https://i.imgur.com/MQC6y17.png)
 
-- Links Section ![](https://i.imgur.com/3WGHl8V.png)
+- Links  
+  ![](https://i.imgur.com/3WGHl8V.png)
 
-- Contato Section ![](https://i.imgur.com/e88URFi.png)
+---
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
+## ✉️ Contato
 
-### Contato
+- Header  
+  ![](https://i.imgur.com/ubDorki.png)
 
-Seções
+- Entre em contato  
+  ![](https://i.imgur.com/4GLs5Iw.png)
 
-- Header ![](https://i.imgur.com/ubDorki.png)
+- Formulário  
+  ![](https://i.imgur.com/VvO2m7w.png)
 
-- Entre em contato Section ![](https://i.imgur.com/4GLs5Iw.png)
+- Footer  
+  ![](https://i.imgur.com/P06m37L.png)
 
-- Contato Section ![](https://i.imgur.com/VvO2m7w.png)
+---
 
-- Footer ![](https://i.imgur.com/P06m37L.png)
-
-
-**LEMBRE-SE**: é melhor feito do quê perfeito!!!
-
-###### tags: `front-end` `módulo 1` `HTML` `CSS` `desafio`
-
+###### tags: `front-end` `HTML` `CSS` `Cubos Academy` `desafio`
